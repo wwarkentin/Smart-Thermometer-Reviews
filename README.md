@@ -1,4 +1,3 @@
-# Smart-Thermometer-Reviews
 # GSBA 594 — Smart Thermometer Submission
 
 This package replaces the conventional-griddle assignment with **two competing consumer-tech/smart devices** for grilling. Both use an app-connected wireless probe to measure internal meat temperature and surrounding cooking temperature. They provide readings and alerts; neither automatically controls a grill's burners or airflow.
